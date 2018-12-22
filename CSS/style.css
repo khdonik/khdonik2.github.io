@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Rammetto One', sans-serif;
+    height: 0 auto;
+}
+header {
+    height: 90px;
+    background: #26d0c9;
+}
+header .logo {
+    font-size: 36px;
+    color: #fff;
+    padding: 20px 40px;
+    float: left;
+}
+
+header .header-menu {
+    float: left;
+}
+
+header .header-menu ul {
+    list-style: none;
+}
+
+header .header-menu ul li{
+    float: left;
+    margin: 33px 20px;
+}
+header .header-menu ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+#main{
+    padding: 100px 80px 50px 80px;
+}
+#main h1{
+    font-size: 140px;
+    text-transform: uppercase;
+}
+#main h2{
+    font-size: 60px;
+}
+#main .red{
+    color: #ff4a4a;
+}
+#other{
+    height: 500px;
+    float:left;
+    padding: 50px 80px 100px 80px;
+}
+#other h3{
+    font-size: 28px;
+    margin: 15px;
+}
+#other .box{
+    border: 2px solid #dee7ec;
+    margin-top: 50px;
+    width: 2000px;  
+}
+section div img{
+    margin: 50px 40px 30px 40px;
+}
+strong{
+    font-size: 28px;
+}
+#other2{
+    margin: 0px 80px 100px 80px;
+    width: 400px;
+}
+form{
+    margin-top: 15px;
+    border: 2px solid #dee7ec;
+    font-size: 18px;
+}
+#maid{
+    margin: 50px 0px 0px 0px;
+}
+input{
+    border: 1px solid #dee7ec;
+    padding: 20px;
+    margin: 10px 0px 30px 0px;
+}
+.answer{
+    font-size: 18px;
+}
+footer{
+    padding: 40px;
+    height: 120px;
+    background-color: #2f5167;
+}
+.logot{
+    font-size: 32px;
+    color: #fff;
+    float: left;
+}
+footer .footer-menu{
+    float: right;
+    margin: 0px 0px 20px 0px;
+    
+}
+footer .footer-menu ul{
+    list-style: none;
+}
+footer .footer-menu ul li a{
+    color: #fff;
+    text-decoration: none;
+}
